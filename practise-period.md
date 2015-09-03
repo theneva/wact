@@ -38,7 +38,7 @@
 - 41: Practise in industry
 - 42: Practise in industry
 - 43: Lecture one day + practise in industry
-- 44: Work requirement 1: essay draft deadling + practise in industry
+- 44: Work requirement 1: essay draft deadline + practise in industry
 - 45: Work requirement 2: oral presentation + practise in industry
 - 46: Practise in industry
 - 47: Practise in industry
