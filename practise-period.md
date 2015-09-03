@@ -34,19 +34,18 @@
 
 ## Week activities
 
-40: Lecture T_h_uesday and Thursday
-41: Practise in industry
-42: Practise in industry
-43: Lecture one day + practise in industry
-44: Work requirement 1: essay draft deadling + practise in industry
-45: Work requirement 2: oral presentation + practise in industry
-46: Practise in industry
-47: Practise in industry
-48: Practise in industry + deadline written essay (Sunday)
+- 40: Lecture T_h_uesday and Thursday
+- 41: Practise in industry
+- 42: Practise in industry
+- 43: Lecture one day + practise in industry
+- 44: Work requirement 1: essay draft deadling + practise in industry
+- 45: Work requirement 2: oral presentation + practise in industry
+- 46: Practise in industry
+- 47: Practise in industry
+- 48: Practise in industry + deadline written essay (Sunday)
 
 _Additional meeting points will be announced._
 
-## Lectures
 
 ## Should you not find a company
 
