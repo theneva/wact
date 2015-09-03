@@ -3,7 +3,7 @@
 - September 3 2015
 - Hanne Sørum
 
-> The practise period project should result in a research question for the master dissertatio
+> The practise period project should result in a research question for the master dissertation
 
 ## Three approaches:
 
