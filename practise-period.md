@@ -54,7 +54,7 @@ NOBANET (Nordic-Baltic Network)
 Nobanet assignment: Website analysis of SMEs internationalisation
 Keywords: SMEs, internationalisation, website analysis, information exchange
 Background:
-> In the case of internationalisation of SMEs an important factor may be the websites of SMEs. When a company wants to contact another company for possible collaboration a starting point may be to go into the website of that company in order to get information needeed to establish that the company being interesting for collaboration. [siv]
+> In the case of internationalisation of SMEs an important factor may be the websites of SMEs. When a company wants to contact another company for possible collaboration a starting point may be to go into the website of that company in order to get information needeed to establish that the company being interesting for collaboration. [sic]
 
 Possible research question: Do SMEs in the Nordic/Baltic countries have websites that enable internationalisation?
 
